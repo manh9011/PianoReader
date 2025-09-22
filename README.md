@@ -1,4 +1,4 @@
-# 🎹 Piano Reader
+![Piano Reader Logo](./logo.png)
 
 **Piano Reader** is a Windows desktop application written in **C# .NET 9** that converts piano roll videos (such as those rendered by Synthesia or similar software) into playable and editable **MIDI files**.  
 
