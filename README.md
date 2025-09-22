@@ -77,11 +77,13 @@ It analyzes video frames to detect pressed keys on a virtual piano keyboard, rec
 1. Clone the repository:
    ```bash
    git clone https://github.com/manh9011/PianoReader.git
-   cd PianoReaderOpen in Visual Studio 2022 or newer.
+   cd PianoReader
    ```
-2. Restore NuGet dependencies.
+   Open in Visual Studio 2022 or newer.
 
-3. Build and run.
+3. Restore NuGet dependencies.
+
+4. Build and run.
 
 ## 📜 License
 
