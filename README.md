@@ -83,12 +83,11 @@ It analyzes video frames to detect pressed keys on a virtual piano keyboard, rec
 
 3. Build and run.
 
-📜 License
+## 📜 License
 
-## This project is licensed under the MIT License
+- This project is licensed under the MIT License
 
 ## 🙌 Credits
 
-Developed by manh9011
-
-Inspired by Synthesia-style piano roll visualizations.
+- Developed by manh9011
+- Inspired by Synthesia-style piano roll visualizations.
