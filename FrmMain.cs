@@ -455,6 +455,9 @@ public sealed partial class FrmMain : Form
 
         var i = tbrSeek.Value;
 
+        if (!File.Exists($"temp\\{i}.jpg"))
+            return;
+
         if (midi_playing)
             ptbVideoPreview.ImageLocation = $"temp\\{i}.jpg";
         else
