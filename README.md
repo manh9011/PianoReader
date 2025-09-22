@@ -17,7 +17,7 @@ It analyzes video frames to detect pressed keys on a virtual piano keyboard, rec
 - 🔀 **Transpose**: Shift notes up or down (0–64 semitones).  
 - ▶ **Preview playback**: Play the detected MIDI before saving.  
 - 💾 **Save / Load presets**: Store and reload your recognition settings.  
-- 🪟 **Windows only**: Built with C# .NET 9, designed for Windows environments.  
+- ⊞ **Windows only**: Built with C# .NET 9, designed for Windows environments.  
 
 ---
 
