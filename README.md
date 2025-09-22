@@ -90,4 +90,5 @@ It analyzes video frames to detect pressed keys on a virtual piano keyboard, rec
 ## 🙌 Credits
 
 Developed by manh9011
+
 Inspired by Synthesia-style piano roll visualizations.
