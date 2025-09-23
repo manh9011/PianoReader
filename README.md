@@ -58,7 +58,7 @@ It analyzes video frames to detect pressed keys on a virtual piano keyboard, rec
 
 ## 🎵 Example Workflow
 
-1. Load a Synthesia MP4 at 60 fps.  
+1. Load a Synthesia MP4 (60 fps recommended for high accuracy).  
 2. Adjust **Keyboard Top** and **Key Number** to align with the on-screen keyboard.  
 3. Configure **Color Deviation** until pressed keys are detected correctly.  
 4. Set **Start Frame** and **Stop Frame** to trim silence.  
@@ -91,5 +91,7 @@ It analyzes video frames to detect pressed keys on a virtual piano keyboard, rec
 
 ## 🙌 Credits
 
-- Developed by manh9011
+- Developed by manh9011.
 - Inspired by Synthesia-style piano roll visualizations.
+- Video decoder by OpenCvSharp.
+- Midi writer by DryWetMidi.
